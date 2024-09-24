@@ -26,7 +26,7 @@ const greeting = {
     "Student and Engineer in all things related to Data and AI. My experience lies in LLMs and SotA vision models, with an additional splash of classical Data Engineering. My true passion has been and always will be mathmatics, visualization and AI Interpretability."
   ,
   resumeLink:
-    "/cv.pdf", // Set to empty to hide the button
+    "developerFolio/cv.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -58,55 +58,55 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "python",
-      url: "/logos/python.png"
+      url: "logos/python.png"
     },
     {
-      skillName: "sqlite3",
-      url: "/logos/sqlite.png"
+      skillName: "sqlite3"
+      url: "logos/sqlite.png"
     },
     {
       skillName: "pytorch",
-      url:"/logos/torch.png"
+      url:"logos/torch.png"
     },
     {
       skillName: "lightning",
-      url: "/logos/lightning.png"
+      url: "logos/lightning.png"
     },
     {
       skillName: "typescript",
-      url: "/logos/ts.png"
+      url: "logos/ts.png"
     },
     {
       skillName: "javascript",
-      url: "/logos/js.png"
+      url: "logos/js.png"
     },
     {
       skillName: "git",
-      url: "/logos/git.png"
+      url: "logos/git.png"
     },
     {
       skillName: "dash",
-      url: "/logos/dash.png"
+      url: "logos/dash.png"
     },
     {
       skillName: "kubernetes",
-      url: "/logos/k8.png"
+      url: "logos/k8.png"
     },
     {
       skillName: "docker",
-      url: "/logos/docker.png"
+      url: "logos/docker.png"
     },
     {
       skillName: "pandas",
-      url: "/logos/pandas.png"
+      url: "logos/pandas.png"
     },
     {
       skillName: "polars",
-      url: "/logos/polars.png"
+      url: "logos/polars.png"
     },
     {
 	    skillName: "great expectations",
-	    url: "/logos/ge.png"
+	    url: "logos/ge.png"
     },
   ],
   display: true // Set false to hide this section, defaults to true
