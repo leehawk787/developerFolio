@@ -61,11 +61,7 @@ https://fontawesome.com/icons?d=gallery */
       url: "logos/python.png"
     },
     {
-<<<<<<< Updated upstream
-      skillName: "sqlite3"
-=======
       skillName: "sqlite3",
->>>>>>> Stashed changes
       url: "logos/sqlite.png"
     },
     {
