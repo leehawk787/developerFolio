@@ -26,7 +26,7 @@ const greeting = {
     "Student and Engineer in all things related to Data and AI. My experience lies in LLMs and SotA vision models, with an additional splash of classical Data Engineering. My true passion has been and always will be mathmatics, visualization and AI Interpretability."
   ,
   resumeLink:
-    "developerFolio/cv.pdf", // Set to empty to hide the button
+    "/developerFolio/cv.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
